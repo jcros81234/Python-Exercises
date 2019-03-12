@@ -1,11 +1,10 @@
 
-/*
-Jake is a very habitual person. He eats breakfast at 7:00 a.m. each morning, lunch at 12:00 p.m. and dinner at 7:00 p.m. 
+
+'''Jake is a very habitual person. He eats breakfast at 7:00 a.m. each morning, lunch at 12:00 p.m. and dinner at 7:00 p.m. 
 in the evening.
 
 Create a function that takes in the current time as a string and determines the duration of time before Jake's next meal. 
-Represent this as a list with the first and second elements representing hours and minutes, respectively.
-*/
+Represent this as a list with the first and second elements representing hours and minutes, respectively.'''
 
 def time_to_eat(current_time):
 	#Converted hours to minutes to make comparison easier
